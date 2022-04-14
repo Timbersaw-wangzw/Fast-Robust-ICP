@@ -39,7 +39,7 @@ The program is run with four input parameters:
 1. an input file storing the source point cloud;
 2. an input file storing the target point cloud;
 3. an output path storing the registered source point cloud and transformation;
-4. registration method:
+4. registration solveMethod:
 ```
 0: ICP
 1: AA-ICP
